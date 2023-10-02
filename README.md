@@ -5,7 +5,7 @@ INTRUCTIONS TO INSTALL
 Pre:
 Need WiFi with your Android and PC in same network
 
-1-Download iCycling APP
+1-Download iCycling APP\n
 2-Install Game, each game have specific configuration, see bellow
 3-Configure game plugin with IP and port from iCycling Local IP Adress field (note is better set statics IP in your adaptor settings)
 4-Configure ControolerInterface config.ini with a desire port to GAME PC, default is 8081
