@@ -17,3 +17,6 @@ Need WiFi with your Android and PC in same network
 
 Notes: 
 The suport of your phone needs to be a non metalic material to not mess with your directions reads.
+
+DOWNLOAD LINK
+https://drive.google.com/file/d/14_W7ocqPLNFiAqVVtJ7n_8StaNuNAH45/view?usp=drive_link
