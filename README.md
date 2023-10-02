@@ -19,4 +19,4 @@ Notes:
 The suport of your phone needs to be a non metalic material to not mess with your directions reads.
 
 DOWNLOAD LINK
-https://drive.google.com/file/d/14_W7ocqPLNFiAqVVtJ7n_8StaNuNAH45/view?usp=drive_link
+https://drive.google.com/file/d/1cnfN4NoKQznuNo4yxr-9CmVuOk-iBgv_/view?usp=drive_link
